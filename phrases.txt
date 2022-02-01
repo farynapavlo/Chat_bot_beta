@@ -1,0 +1,74 @@
+#"-" - bot phrase
+#" " - user phrase
+#"-+" - schedule bot phrase
+#"+(user)>(bot)" - teach bot
+hello
+-Hello, man!
+how are you?
+-I am fine, thanks. And you?
+I am bad
+-What is wrong?
+I am good
+-That is great!
+tell me a joke
+-Do you know why 6 is afraid of 7?
+no, why?
+-Because 7 ate 9, ha-ha!!!
+Show me a schedule
+-What day do You need?
+Sd
+-What day do You need?
+Monday
+Mn
+-+1 --> Physical Ed, 2 --> History, 4 --> Maths, 5 --> Programing
+-+1 --> Physical Ed, 2 --> History, 4 --> Maths, 5 --> Programing
+Tuesday
+Tu
+-+1 --> Mathan, 2 --> Lineal, 4 --> Programming
+-+1 --> Mathan, 2 --> Lineal, 4 --> Programming
+Wednesday
+We
+-+3 --> Diskret, 4 --> Diskret, 5 --> Programming
+-+3 --> Diskret, 4 --> Diskret, 5 --> Programming
+Thursday
+Th
+-+3 --> Mathan, 4 --> English, 5 --> History
+-+3 --> Mathan, 4 --> English, 5 --> History
+Friday
+Fr
+-+1 --> Programing, 2 --> Diskret
+-+1 --> Programing, 2 --> Diskret
+Saturday
+St
+-Be cool and clean the room
+-Be cool and clean the room
+Sunday
+Sn
+-Be happy, It is only one day without work
+-Be happy, It is only one day without work
+Study
+-Noo!
+Lol
+-Haha
+Hmmm
+-What is wrong?
+No
+-Yes
+Yes
+-No
+Lalala
+-Do you want to listen to music? Despaciiitoooo
+What is your name?
+-Super bot
+Haha
+-Lol
+Lala
+-Do you want to listen to music? Despaciiitoooo
+helo
+-Yeah, you want to greet me? I knew so! Hello!
+hel.0
+-Yeah, you want to greet me? I knew so! Hello!
+hello.
+-Yeah, you want to greet me? I knew so! Hello!
+I am lonely
+-May I be your friend <3
